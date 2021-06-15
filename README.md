@@ -32,6 +32,6 @@ Web-services API - Can be used with any programming language that has support fo
 Multiple security layers.
 
 Nimble, Simple to use, In Memory, Real-time DBMS.
-# Screensort
+# Screenshots
 ![Capture](https://user-images.githubusercontent.com/73222719/122127207-7b85bd80-ce50-11eb-9b64-99e1f1fd2d64.JPG)
 ![Capture2](https://user-images.githubusercontent.com/73222719/122127225-7fb1db00-ce50-11eb-9e48-ea3047838cf4.JPG)
